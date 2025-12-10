@@ -1,4 +1,4 @@
-Used Car Sales Data Analysis (SQL Project)
+# Used Car Sales Data Analysis (SQL Project)
 Overview
 
 This project analyzes a large used car sales dataset (558k+ records) using PostgreSQL. The goal is to identify sales trends, pricing patterns, popular models, and state-wise insights through SQL queries.
